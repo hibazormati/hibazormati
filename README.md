@@ -196,6 +196,6 @@ I'm open to research collaborations and opportunities to explore challenging tec
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1828&height=3" width="100%" alt="divider"/>
 
-  <sub>Designed and maintained by Hiba Zormati · 2026</sub>
+  
 
 </div>
