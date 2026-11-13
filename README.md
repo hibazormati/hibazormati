@@ -85,9 +85,9 @@ A selection of academic and personal projects exploring different dimensions of 
 
 | Project | Technical focus | Highlight |
 |:--|:--|:--|
-| **AI Medical Chatbot** | Python · RAG · FAISS · Qwen2.5 · Transformers | Evidence-grounded medical question answering using MedlinePlus |
-| **Legal Information Extraction** | NLP · InLegalBERT · CRF | 14 legal entity types; 0.848 micro-F1 with InLegalBERT |
-| **AI-Generated Face Detection** | PyTorch · CNN · Grad-CAM | 97.16% accuracy and 99.85% ROC-AUC |
+| [AI Medical Chatbot](https://github.com/hibazormati/medical-rag-medlineplus-chatbot) | Python · RAG · FAISS · Qwen2.5 · Transformers | Evidence-grounded medical question answering using MedlinePlus |
+| [Legal Information Extraction](https://github.com/hibazormati/indian-legal-ner-inlegalbert) | NLP · InLegalBERT · CRF | 14 legal entity types; 0.848 micro-F1 with InLegalBERT |
+| [AI-Generated Face Detection](https://github.com/hibazormati/real-vs-stylegan-face-detection) | PyTorch · CNN · Grad-CAM | 97.16% accuracy and 99.85% ROC-AUC |
 | **CerebrAI** | CNN · EfficientNet · Grad-CAM · RAG | Brain MRI analysis and AI-assisted medical reporting |
 
 ### Statistical Learning & Data Science
@@ -96,7 +96,7 @@ A selection of academic and personal projects exploring different dimensions of 
 |:--|:--|:--|
 | [Hospital Readmission Prediction](https://github.com/hibazormati/hospital-readmission-prediction) | Statistical Analysis · ML · XGBoost | 30-day diabetic patient readmission prediction |
 | [Insurance Claims Prediction](https://github.com/hibazormati/insurance-claim-prediction) | Classification · Feature Selection | Gradient Boosting ROC-AUC: 0.6505 |
-| **Credit Scoring** | Logistic Regression · IV · SMOTE | Credit risk modeling; ROC-AUC: 0.71 |
+| [Credit Scoring](https://github.com/hibazormati/bank-credit-scoring) | Logistic Regression · IV · SMOTE | Credit risk modeling; ROC-AUC: 0.71 |
 
 ### Data Engineering & Business Intelligence
 
